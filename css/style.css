@@ -1,0 +1,30 @@
+body{
+    background-image: url(images/bgr.jpg);
+    background-color: antiquewhite;
+}
+p{
+    color: blue;
+}
+
+header{
+    padding-top: 20px;
+    
+}
+
+span{
+    text-align: center;
+}
+.div1{
+    border-radius: 15px;
+    padding-top: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    background: white;
+}
+
+h3{
+    text-align: left;
+    color: teal;
+    text-transform: uppercase;
+}
