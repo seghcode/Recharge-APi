@@ -13,6 +13,10 @@ header{
 
 span{
     text-align: center;
+    line-height: 0rem;
+    word-wrap: none;
+    font-weight: bolder;
+    
 }
 .div1{
     border-radius: 15px;
@@ -23,8 +27,56 @@ span{
     background: white;
 }
 
-h3{
+h5,h4,h3,h2{
     text-align: left;
     color: teal;
     text-transform: uppercase;
+}
+
+.rechpin{
+    text-align: center;
+     padding-top: 15px;
+     margin-top: 15px;
+}
+/*
+ul#menu{
+   
+    margin-right: 15px;
+}
+ul#menu li{
+    display: inline;
+    text-justify: auto;
+    border: 1px solid;
+    border: 1px solide black;
+    padding-right: 15px;
+    margin-left: 15px;
+
+}
+ul#menu li a{
+    background-color: white;
+    color: black;
+    padding: 1px 20px;
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 4px 4px 0 0;
+}
+*/
+.price{display:inline;
+    font-size:.75rem;
+    font-weight: bold;
+    color:#adadad ;}
+
+img{
+    width: 15px;
+    border-radius: 50%;
+}
+button:focus{
+    outline: red auto 3px;
+}
+
+img#sel{
+    width: 25px;
+}
+.qttbtn{
+    margin-bottom:5px;
 }
