@@ -81,3 +81,8 @@ img#sel{
 .qttbtn{
     margin-bottom:5px;
 }
+
+.conf{
+    width: 15%;
+    border-radius: 50%;
+}
