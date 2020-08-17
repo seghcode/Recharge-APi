@@ -86,3 +86,6 @@ img#sel{
     width: 15%;
     border-radius: 50%;
 }
+label{
+    text-tranforn: uppercase;
+}
